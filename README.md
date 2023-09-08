@@ -1,7 +1,7 @@
-[![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)]
-<h1 align="center">Hi 👋, I'm @tobiy105</h1>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align="center">Hi 👋, I'm Tobi Sobola</h1>
 <h3 align="center">A passionate self-taught developer from Uk</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiy105&label=Profile%20views&color=0e75b6&style=flat" alt="tobiy105" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oluwatobi sobola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatobi sobola" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwatobi-sobola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatobi sobola" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
