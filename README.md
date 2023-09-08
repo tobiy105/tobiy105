@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **tobiy105@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/presentation/d/16s2X1xMYbLMzkF1GleviFgk_cUlz6gLS/edit?usp=sharing&ouid=108164784219264029188&rtpof=true&sd=true](https://docs.google.com/presentation/d/16s2X1xMYbLMzkF1GleviFgk_cUlz6gLS/edit?usp=sharing&ouid=108164784219264029188&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
