@@ -7,9 +7,12 @@
 
 - 🌱 I’m currently improving on my **TpyeScript, Python**
 
-- 👨‍💻 All of my projects are available at [https://tobi-personal-website.vercel.app/](https://tobi-personal-website.vercel.app/)
+- 👨‍💻 My Personal Website [https://tobi-personal-website.vercel.app/](https://tobi-personal-website.vercel.app/)
+
+- 👀 Looking to collaborate with projects
 
 - 📫 How to reach me **tobiy105@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
